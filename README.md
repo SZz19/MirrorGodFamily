@@ -26,3 +26,7 @@ void loop() {
   // 硬件上的 PLC 运行时（Runtime）会自动在后台处理 Modbus TCP 等工业任务，
   // 此处不需要编写任何循环代码，留空即可。
 }
+
+
+JSTQB認定テスト技術者資格 (Foundation Level)
+組込み技術者試験 (ETEC) - クラス2
